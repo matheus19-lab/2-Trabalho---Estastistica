@@ -91,5 +91,4 @@ Curso de Estatística
 
 ## Licença
 
-Este projeto é parte de um trabalho acadêmico.</content>
-<parameter name="filePath">c:\Users\Mathe\Documents\Faculdade\5\Estastitica\TRABALHO 2\README.md
+Este projeto é parte de um trabalho acadêmico.
